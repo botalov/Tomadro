@@ -15,4 +15,7 @@ class TomadroApp : Application() {
             return instance!!.applicationContext
         }
     }
+    /*
+    test
+     */
 }
